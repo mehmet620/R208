@@ -1,0 +1,9 @@
+[
+    {"nom": "BEDROSSIAN", "prenom": "Arman", "date_naissance": "12/03/1998"},
+    {"nom": "MEYER", "prenom": "Sophie", "date_naissance": "09/07/2001"},
+    {"nom": "AL-FAROUQ", "prenom": "Karim", "date_naissance": "23/11/1995"},
+    {"nom": "WILLIAMS", "prenom": "Ethan", "date_naissance": "30/05/1987"},
+    {"nom": "TANAKA", "prenom": "Aiko", "date_naissance": "14/09/2000"},
+    {"nom": "PETRAVA", "prenom": "Anastasia", "date_naissance": "12/06/2005"},
+    {"nom": "DIOUF", "prenom": "Kofi", "date_naissance": "29/02/2004"}
+]

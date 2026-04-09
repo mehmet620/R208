@@ -1,0 +1,13 @@
+[
+    {"nom": "ROWLING", "prenom": "J.K.", "pays": "Angleterre", "date_naissance": "31/07/1965"},
+    {"nom": "TOLKIEN", "prenom": "J.R.R.", "pays": "Afrique du Sud", "date_naissance": "03/01/1892"},
+    {"nom": "HUGO", "prenom": "Victor", "pays": "France", "date_naissance": "26/02/1802"},
+    {"nom": "ORWELL", "prenom": "George", "pays": "Inde", "date_naissance": "25/06/1903"},
+    {"nom": "DUMAS", "prenom": "Alexandre", "pays": "France", "date_naissance": "24/07/1802"},
+    {"nom": "AUSTEN", "prenom": "Jane", "pays": "Angleterre", "date_naissance": "16/12/1775"},
+    {"nom": "VERNE", "prenom": "Jules", "pays": "France", "date_naissance": "08/02/1828"},
+    {"nom": "HEMINGWAY", "prenom": "Ernest", "pays": "Etats-Unis (IL)", "date_naissance": "21/07/1899"},
+    {"nom": "POE", "prenom": "Edgar Allan", "pays": "Etats-Unis (MA)", "date_naissance": "19/01/1809"},
+    {"nom": "CAMUS", "prenom": "Albert", "pays": "France", "date_naissance": "07/11/1913"},
+    {"nom": "FOLLETT", "prenom": "Ken", "pays": "Pays de Galles", "date_naissance": "05/06/1949"}
+]
